@@ -1,0 +1,1 @@
+The goal is to make a trash detection model to run my trash can
